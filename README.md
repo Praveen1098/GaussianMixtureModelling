@@ -21,20 +21,20 @@ Maximization (EM) algorithm.
 
 - Run the Python scripts in the current directory which contains all the codes.
 - For GMM estimation pertaining to individual colored buoys, run the jupyter notebooks:
-  - greenGMM.ipynb for green color segmentation
-  - yellowGMM.ipynb for yellow color segmentation
-  - orangeGMM.ipynb for orange color segmentation
+  - greenEstimate.ipynb for green color segmentation
+  - yellowEstimate.ipynb for yellow color segmentation
+  - orangeEstimate.ipynb for orange color segmentation
 - To test the modelled GMM on a test data, run the Python scripts 
   ```
-  python3 greenvideo.py
+  python3 greenTest.py
   ```
   
   ```
-  python3 yellowvideo.py
+  python3 yellowTest.py
   ```
   
   ```
-  python3 orangevideo.py
+  python3 orangeTest.py
   ```
 
 
