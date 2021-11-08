@@ -19,7 +19,8 @@ Maximization (EM) algorithm.
 
 ## Usage
 
-- Run the Python scripts in the current directory which contains all the codes.
+- Run the Python scripts in the current directory which contains all the codes
+- For dataset preparation run the MATLAB code roiExtract.m
 - For GMM estimation pertaining to individual colored buoys, run the jupyter notebooks:
   - greenEstimate.ipynb for green color segmentation
   - yellowEstimate.ipynb for yellow color segmentation
