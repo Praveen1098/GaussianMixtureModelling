@@ -1,4 +1,4 @@
-# Color Segementation Using Gaussian Mixture Modelling 
+# Color Segementation Using Gaussian Mixture Modelling and Expectation Maximization
 
 In this project we perform color segmentation on an underwater video sequence consisting of 3 buoys of different colors using Gaussian Mixture Modelling and Expectation
 Maximization (EM) algorithm.
