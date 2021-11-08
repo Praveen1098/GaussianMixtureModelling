@@ -36,5 +36,8 @@ Maximization (EM) algorithm.
   ```
   python3 orangeTest.py
   ```
+## Demo
 
+- https://www.youtube.com/watch?v=S4VIuxQLtDU&list=PLhW-cg34lEh0PNiGCkWEyM831WF444-xT&index=8
+- https://www.youtube.com/watch?v=8ZrRgPuYYUY&list=PLhW-cg34lEh0PNiGCkWEyM831WF444-xT&index=7
 
